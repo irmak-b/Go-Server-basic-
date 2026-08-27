@@ -1,4 +1,4 @@
-***I create this server to refresh my Golang knowledge!***
+***I create this simple server to refresh my Golang knowledge!***
 
 
 ```mermaid
